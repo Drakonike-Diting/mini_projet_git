@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
  Chapitre 1 - Une douce mélodie
  |\/-\/|
 (°  o  °)
@@ -16,3 +17,13 @@ Chapitre 2 - Le prince aveugle
  \___>\
 Un soir le prince partit chercher d'où venait cette mélodie et trouva une louve. Cette rencontre fut surprenante pour les deux et par panique la louve griffa le prince au yeux en voulant  masquer les yeux du prince et rendit le prince aveugle. Par panique le prince tomba en arrière et par le bruit terrible de la chute un garde voit le prince et la louve et tira des flèches pour éloigner la louve et récupérer le prince afin de le ramener au royaume .
 >>>>>>> Chapitre_2
+=======
+Chapitre 3 - La sorcière de la forêt
+  /\
+ /  \
+------
+(o  o)
+ |  |/
+ |--|
+Suite à cela les parents du prince décident de l'enfermer dans sa chambre par peur, la louve se sentit tellement coupable qu'elle désirait l'aider comme elle le pouvait. Elle alla donc demander à une sorcière de la transformer en humaine pour ne pas effrayer le prince avec son apparence terrifiante, le contre-coups à cela était qu'elle reprendrait son apparence à la tombée de la nuit et ne pourrait plus jamais chanter.
+>>>>>>> Chapitre_3
