@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  Chapitre 1 - Une douce mélodie
  |\/-\/|
 (°  o  °)
@@ -5,3 +6,13 @@
  O_____O 
 
 Un jour un prince alla dans une forêt et entendit une personne chanter un soir, il a tellement aimé cela qu'il revenait toutes les nuits pour écouter cette mystérieuse personne qui chantait. La louve qui chantait aperçu le prince qui applaudissait en entendant cette belle mélodie. Par peur que le prince vois son apparence monstrueuse elle décida de partir directement après.
+=======
+Chapitre 2 - Le prince aveugle
+    /|
+   <'/
+   /'(
+  /_ |
+ | _\\
+ \___>\
+Un soir le prince partit chercher d'où venait cette mélodie et trouva une louve. Cette rencontre fut surprenante pour les deux et par panique la louve griffa le prince au yeux en voulant  masquer les yeux du prince et rendit le prince aveugle. Par panique le prince tomba en arrière et par le bruit terrible de la chute un garde voit le prince et la louve et tira des flèches pour éloigner la louve et récupérer le prince afin de le ramener au royaume .
+>>>>>>> Chapitre_2
