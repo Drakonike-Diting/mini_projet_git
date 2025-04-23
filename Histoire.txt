@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  Chapitre 1 - Une douce mélodie
  |\/-\/|
 (°  o  °)
@@ -41,3 +42,11 @@ Chapitre 4 - La princesse menteuse
 
 Elle partit chercher le prince toujours enfermer dans sa chambre en le faisant sortir discrètement pour essayer de le ramener à la sorcière , elle lui mentit en disant qu'elle est la princesse d'un royaume voisin. Le prince la crue et décida de la suivre.
 >>>>>>> Chapitre_4
+=======
+Chapitre 5 - Un chemin remplie d'attention
+ 
+\`.\
+ |.'|  <-- C'est chemin (je sais il est incroyable)
+/'./
+Tout deux  avancèrent sur le chemin menant à la sorcières sans que le prince ne le sache, croyant qu'ils partaient vers le royaume de la princesse. La "princesse" offrait un bouquet de fleur quotidien au prince, et celui-ci apprécia le geste. Alors qu'ils furent presque arriver dans la maison de la sorcière la "princesse" offrit comme d'habitude un bouquet de fleur, mais sans faire attention elle reprit son apparence initiale et le prince reconnu les paires de griffes qui lui avait volé sa vue. Il tomba en arrière par peur, heurta une falaise et cela a fait tomber sur lui un rocher à toute vitesse.
+>>>>>>> Chapitre_5
