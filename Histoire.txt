@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  Chapitre 1 - Une douce mélodie
  |\/-\/|
 (°  o  °)
@@ -61,3 +62,16 @@ Chapitre 6 - Un échange oubliable
  
 La louve se mit à courir directement en direction du prince afin de le protéger du rocher. Elle encaissa le choc du rocher avec son corps et essaya de calmer le prince en lui expliquant la situation toute en s'excusant. Le prince comprit qu'elle s'en voulait énormément et qu'elle dû même sacrifier sa capaciter à chanter pour l'aider. Après un bref moment dans le calme les deux s'approchèrent de la cabane de la sorcière et décidèrent d'y rentrer. La princesse demanda à la sorcière de rendre la vue au prince. La sorcière expliqua que la contre partie de cela était que son pouvoir de transformation reviendrait à la normale et qu'elle perdrait tout ses souvenirs. Le prince voulu empêcher cet échange, mais la princesse accepta tout de même .
 >>>>>>> chapitre_6
+=======
+Chapitre 7 - Tout perdu ?
+  ______ _   _ _____  
+ |  ____| \ | |  __ \ 
+ | |__  |  \| | |  | |
+ |  __| | . ` | |  | |
+ | |____| |\  | |__| |
+ |______|_| \_|_____/
+
+Après un certain temps, la louve se retrouva à chanter une douce mélodie au même endroit. Le prince passa dans les parages, mais malheureusement, elle ne se souvenait pas de lui. Elle tenta même de le dévorer. Pourtant, le prince lui tendit un bouquet de fleurs, comme elle avait l’habitude de le faire autrefois. Un étrange sentiment de nostalgie remonta alors en elle, sans qu’elle en comprenne la raison. Submergée par l’émotion, elle renonça à l’attaquer.
+
+Elle ne se sentit plus seule. Les deux s’assirent côte à côte. Malgré la perte de mémoire et sa capacité à chanter juste, le prince appréciait sa présence, et la louve aussi se sentait bien auprès de lui.
+>>>>>>> chapitre_7
