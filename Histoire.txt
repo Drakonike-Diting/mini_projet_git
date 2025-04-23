@@ -14,7 +14,7 @@ Chapitre 2 - Le prince aveugle
  | _\\
  \___>\
 Un soir le prince partit chercher d'où venait cette mélodie et trouva une louve. Cette rencontre fut surprenante pour les deux et par panique la louve griffa le prince au yeux en voulant  masquer les yeux du prince et rendit le prince aveugle. Par panique le prince tomba en arrière et par le bruit terrible de la chute un garde voit le prince et la louve et tira des flèches pour éloigner la louve et récupérer le prince afin de le ramener au royaume .
->>>>>>> Chapitre_2
+
 =======
 Chapitre 3 - La sorcière de la forêt
   /\
@@ -24,7 +24,7 @@ Chapitre 3 - La sorcière de la forêt
  |  |/
  |--|
 Suite à cela les parents du prince décident de l'enfermer dans sa chambre par peur, la louve se sentit tellement coupable qu'elle désirait l'aider comme elle le pouvait. Elle alla donc demander à une sorcière de la transformer en humaine pour ne pas effrayer le prince avec son apparence terrifiante, le contre-coups à cela était qu'elle reprendrait son apparence à la tombée de la nuit et ne pourrait plus jamais chanter.
->>>>>>> Chapitre_3
+
 =======
 Chapitre 4 - La princesse menteuse
 
@@ -37,7 +37,7 @@ Chapitre 4 - La princesse menteuse
 
 
 Elle partit chercher le prince toujours enfermer dans sa chambre en le faisant sortir discrètement pour essayer de le ramener à la sorcière , elle lui mentit en disant qu'elle est la princesse d'un royaume voisin. Le prince la crue et décida de la suivre.
->>>>>>> Chapitre_4
+
 =======
 Chapitre 5 - Un chemin remplie d'attention
  
@@ -45,7 +45,7 @@ Chapitre 5 - Un chemin remplie d'attention
  |.'|  <-- C'est chemin (je sais il est incroyable)
 /'./
 Tout deux  avancèrent sur le chemin menant à la sorcières sans que le prince ne le sache, croyant qu'ils partaient vers le royaume de la princesse. La "princesse" offrait un bouquet de fleur quotidien au prince, et celui-ci apprécia le geste. Alors qu'ils furent presque arriver dans la maison de la sorcière la "princesse" offrit comme d'habitude un bouquet de fleur, mais sans faire attention elle reprit son apparence initiale et le prince reconnu les paires de griffes qui lui avait volé sa vue. Il tomba en arrière par peur, heurta une falaise et cela a fait tomber sur lui un rocher à toute vitesse.
->>>>>>> Chapitre_5
+
 =======
 Chapitre 6 - Un échange oubliable
   |  |
@@ -55,7 +55,7 @@ Chapitre 6 - Un échange oubliable
  \__/ 
  
 La louve se mit à courir directement en direction du prince afin de le protéger du rocher. Elle encaissa le choc du rocher avec son corps et essaya de calmer le prince en lui expliquant la situation toute en s'excusant. Le prince comprit qu'elle s'en voulait énormément et qu'elle dû même sacrifier sa capaciter à chanter pour l'aider. Après un bref moment dans le calme les deux s'approchèrent de la cabane de la sorcière et décidèrent d'y rentrer. La princesse demanda à la sorcière de rendre la vue au prince. La sorcière expliqua que la contre partie de cela était que son pouvoir de transformation reviendrait à la normale et qu'elle perdrait tout ses souvenirs. Le prince voulu empêcher cet échange, mais la princesse accepta tout de même .
->>>>>>> chapitre_6
+
 =======
 Chapitre 7 - Tout perdu ?
   ______ _   _ _____  
@@ -68,4 +68,4 @@ Chapitre 7 - Tout perdu ?
 Après un certain temps, la louve se retrouva à chanter une douce mélodie au même endroit. Le prince passa dans les parages, mais malheureusement, elle ne se souvenait pas de lui. Elle tenta même de le dévorer. Pourtant, le prince lui tendit un bouquet de fleurs, comme elle avait l’habitude de le faire autrefois. Un étrange sentiment de nostalgie remonta alors en elle, sans qu’elle en comprenne la raison. Submergée par l’émotion, elle renonça à l’attaquer.
 
 Elle ne se sentit plus seule. Les deux s’assirent côte à côte. Malgré la perte de mémoire et sa capacité à chanter juste, le prince appréciait sa présence, et la louve aussi se sentait bien auprès de lui.
->>>>>>> chapitre_7
+
